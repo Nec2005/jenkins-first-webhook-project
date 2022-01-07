@@ -9,6 +9,6 @@ def passwd(name):
         passw += letter.lower()
         randNum = rnd.randint(1000,9999)
         passw += str(randNum)
-    return passw
+    print(passw)
 
 passwd("tomas")
