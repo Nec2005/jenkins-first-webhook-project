@@ -1,1 +1,1 @@
-print("Hello World, Happy New Year! for Jenkins GitHub Job")
+print("Happy New Year! for GitHub Job")
