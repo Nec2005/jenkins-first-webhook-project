@@ -11,4 +11,4 @@ def passwd(name):
         passw += str(randNum)
     print(passw)
 
-passwd("tomascerny")
+passwd("tomascern")
